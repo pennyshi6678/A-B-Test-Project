@@ -1,4 +1,4 @@
--- Q1: "Success" for shopper recruiting funnel achieved if they complete their first batch (see "first_batch_completed_date")
+-- Q1: "Success" for shopper recruiting funnel achieved if they complete their first batch (see variable "first_batch_completed_date")
 
 WITH t1 AS (
   SELECT
